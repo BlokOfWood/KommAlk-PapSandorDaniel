@@ -19,7 +19,12 @@ h1{
     margin-bottom: 2vh;
 }
 
-p{
+h2{
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+
+p, button{
     margin-left: 2vw;
     margin-right: 2vw;
 }
