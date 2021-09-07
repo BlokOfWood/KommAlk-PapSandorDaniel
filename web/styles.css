@@ -1,0 +1,25 @@
+.navbar-brand{
+    margin-left: 2vw;
+}
+.navbar div ul li a{
+    color: white;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+.navbar-brand:hover{
+    color:white;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+p{
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
