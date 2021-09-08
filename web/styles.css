@@ -28,3 +28,18 @@ p, button{
     margin-left: 2vw;
     margin-right: 2vw;
 }
+
+#randomimgp{
+    height: 30vh;
+    text-align: center;
+}
+#randomimg{
+    height: 100%;
+}
+
+#output{
+    margin-left: 0;
+    margin-top: 2vh;
+    line-height: 2vh;
+    font-size: 1rem;
+}
